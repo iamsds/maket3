@@ -1,0 +1,644 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.tozalash{
+	clear: both;
+}
+.container{
+	width: 1400px;
+	height: 6400px;
+	margin: 0 auto;
+}
+.container .menu{
+	width: 1400px;
+	height: 156px;
+}
+.container .menu .row{
+	width: 1150px;
+	height: 155px;
+	margin: 0 auto;
+}
+.container .menu .row .mleft{
+	width: 573px;
+	height: 155px;
+	float: left;
+}
+.container .menu .row .mright{
+	width: 573px;
+	height: 155px;
+	float: right;
+}
+.container .menu .row .mleft h1{
+	margin-top: 63px;
+	font-size: 30px;
+	font-family: "Montserrat bold";
+}
+.container .menu .row .mright ul{
+	list-style: none;
+}
+.container .menu .row .mright ul li{
+	margin-top: 75px;
+	float:right;
+	margin-left: 30px;
+	font-size: 18px;
+	
+}
+.container .menu .row .mright ul li a{
+	font-family: "Montserrat bold";
+	color: #989898;
+	text-decoration: none;
+}
+.container .slayd{
+	height: 520px;
+	margin: 0 auto;
+}
+.container .slayd .row{
+	margin: 0 auto;
+	width: 1150px;
+	height: 520px;
+	background-color: #ffe1bd;
+	border: 1px solid #ffe1bd;
+	
+}
+.container .slayd .row h1{
+	text-align: center;
+	font-family: "Montserrat bold";
+	font-size: 45px;
+	margin-top: 139px;
+}
+.container .slayd .row h4{
+	margin-top: 5px;
+	text-align: center;
+	font-size: 24px;
+}
+.container .slayd .row button{
+	font-family: "Montserrat bold";
+	margin-left: 489px;
+	margin-top: 15px;
+	width: 170px;
+	height: 50px;
+	background-color: black;
+	color: white;
+	border-radius: 40px;
+}
+.container .portfolio{
+	width: 1400px;
+	height: 2080px;
+}
+.container .portfolio .row{
+	margin: 0 auto;
+	width: 1150px;
+	height: 2150px;
+}
+.container .portfolio .row .text{
+	width: 1150px;
+	height: 150px;
+}
+.container .portfolio .row .text h1{
+	margin-top: 20px;
+	font-family: "Montserrat bold";
+	text-align: center;
+	font-size: 60px;
+}
+.container .portfolio .row .kitchen{
+	width: 1150px;
+	height: 605px;
+}
+.container .portfolio .row .kitchen .kleft{
+	width: 560px;
+	height: 560px;
+	float: left;
+}
+.container .portfolio .row .kitchen .kright{
+	width: 480px;
+	height: 560px;
+	margin-left: 50px;
+	float: left;
+}
+.container .portfolio .row .kitchen .kright h3{
+	font-size: 30px;
+	height: 29px;
+}
+.container .portfolio .row .kitchen .kright h1{
+	font-size: 48px;
+}
+.container .portfolio .row .kitchen .kright p{
+	margin-top: 30px;
+	font-size: 18px;
+	font-family: "Montserrat bold";
+	color: #656565;
+}
+.container .portfolio .row .kitchen .kright button{
+	width: 170px;
+	height: 50px;
+	border-radius: 30px;
+	font-size: 18px;
+	margin-top: 40px;
+	margin-left: 5px;
+	background-color: white;
+	border: 0.9px solid #656565;
+}
+.container .portfolio .row .kitchen .kright a{
+	color: black;
+	text-decoration-line: none;
+}
+.container .portfolio .row .install{
+	width: 1150px;
+	height: 605px;
+	margin-top: 40px;
+}
+.container .portfolio .row .install .ileft{
+	width: 480px;
+	height: 560px;
+	float: left;
+}
+.container .portfolio .row .install .iright{
+	width: 480px;
+	height: 560px;
+	margin-left: 130px;
+	float: left;
+}
+.container .portfolio .row .install .ileft h3{
+	font-size: 30px;
+	height: 29px;
+}
+.container .portfolio .row .install .ileft h1{
+	font-size: 48px;
+}
+.container .portfolio .row .install .ileft p{
+	margin-top: 40px;
+	font-size: 18px;
+	font-family: "Montserrat bold";
+	color: #656565;
+}
+.container .portfolio .row .install .ileft button{
+	width: 170px;
+	height: 50px;
+	border-radius: 30px;
+	font-size: 18px;
+	margin-top: 40px;
+	margin-left: 5px;
+	background-color: white;
+	border: 0.9px solid #656565;
+}
+.container .portfolio .row .install .ileft a{
+	color: black;
+	text-decoration-line: none;
+}
+.container .portfolio .row .design{
+	width: 1150px;
+	height: 605px;
+	margin-top: 40px;
+}
+.container .portfolio .row .design .dleft{
+	width: 560px;
+	height: 560px;
+	float: left;
+}
+.container .portfolio .row .design .dright{
+	width: 480px;
+	height: 560px;
+	margin-left: 50px;
+	float: left;
+}
+.container .portfolio .row .design .dright h3{
+	font-size: 30px;
+	height: 29px;
+}
+.container .portfolio .row .design .dright h1{
+	font-size: 48px;
+}
+.container .portfolio .row .design .dright p{
+	margin-top: 30px;
+	font-size: 18px;
+	font-family: "Montserrat bold";
+	color: #656565;
+}
+.container .portfolio .row .design .dright button{
+	width: 170px;
+	height: 50px;
+	border-radius: 30px;
+	font-size: 18px;
+	margin-top: 40px;
+	margin-left: 5px;
+	background-color: white;
+	border: 0.9px solid #656565;
+}
+.container .portfolio .row .design .dright a{
+	color: black;
+	text-decoration-line: none;
+}
+.container .gallary{
+	width: 1400px;
+	height: 1200px;
+}
+.container .gallary .row{
+	margin: 0 auto;
+	width: 1150px;
+	height: 1000px;
+	margin-top: 40px;
+}
+.container .gallary .text{
+	width: 1400px;
+	height: 60px;
+	font-family: "Montserrat bold";
+	font-size: 60px;
+	text-align: center;
+}
+.container .gallary .row #rasm1{
+	width: 364px;
+	height: 364px;
+	float: left;
+}
+.container .gallary .row #rasm2{
+	width: 364px;
+	height: 590px;
+	float: left;
+	margin-left: 25px;
+}
+.container .gallary .row #rasm3{
+	width: 364px;
+	height: 364px;
+	margin-left: 25px;
+	float: left;
+}
+.container .gallary .row #rasm4{
+	width: 364px;
+	height: 590px;
+	float: right;
+	margin-top: 35px;
+}
+.container .gallary .row #rasm5{
+	width: 364px;
+	height: 364px;
+	float: right;
+	margin-right: 30px;
+	margin-top: 35px;
+}
+.container .gallary .row  #rasm6{
+	width: 364px;
+	height: 590px;
+	float: left;
+	margin-top: -190px;
+}
+.container .gallary button{
+	font-family: "Montserrat bold";
+	margin-top: 20px;
+	margin-left: 615px;
+	width: 170px;
+	height: 50px;
+	background-color: black;
+	color: white;
+	border-radius: 40px;
+}
+.container .team{
+	width: 1400px;
+	height: 710px;
+	background-color: #ffe1bd;
+	border: 1px solid #ffe1bd;
+}
+.container .team .text{
+	width: 1400px;
+	height: 80px;
+	font-family: "Montserrat bold";
+	font-size: 60px;
+	text-align: center;
+	margin-top: 50px;
+}
+.container .team .row{
+	margin: 0 auto;
+	width: 950px;
+	height: 485px;
+	margin-top: 10px;
+}
+.container .team .row .human1{
+	width: 315px;
+	height: 480px;
+	float: left;
+}
+.container .team .row .human2{
+	width: 315px;
+	height: 480px;
+	float: left;
+}
+.container .team .row .human3{
+	width: 315px;
+	height: 480px;
+	float: right;
+}
+.container .team .row .human1 img{
+	margin-top: 40px;
+	margin-left: 75px;
+	border-radius: 90px;
+}
+.container .team .row .human1 h1{
+	font-size: 40px;
+	text-align: center;
+	font-family: "Montserrat bold";
+	margin-top: 10px;
+}
+.container .team .row .human1 p{
+	text-align: center;
+	font-family: "Montserrat bold";
+	margin-top: 5px;
+	font-size: 18px;
+}
+.container .team .row .human2 img{
+	margin-top: 40px;
+	margin-left: 75px;
+	border-radius: 90px;
+}
+.container .team .row .human2 h1{
+	font-size: 40px;
+	text-align: center;
+	font-family: "Montserrat bold";
+	margin-top: 10px;
+	line-height: 40px;
+}
+.container .team .row .human2 p{
+	text-align: center;
+	font-family: "Montserrat bold";
+	font-size: 18px;
+	margin-left: 8px;
+	margin-top: 12px;
+}
+.container .team .row .human3 img{
+	margin-top: 40px;
+	margin-left: 75px;
+	border-radius: 90px;
+}
+.container .team .row .human3 h1{
+	font-size: 40px;
+	text-align: center;
+	font-family: "Montserrat bold";
+	margin-top: 10px;
+}
+.container .team .row .human3 p{
+	text-align: center;
+	font-family: "Montserrat bold";
+	font-size: 18px;
+	margin-top: 5px;
+}
+.container .clients{
+	width: 1400px;
+	height: 650px;
+}
+.container .clients .text h1{
+	margin-top: 40px;
+	font-size: 60px;
+	font-family: "Montserrat bold";
+	text-align: center;
+}
+.container .clients .row{
+	width: 1150px;
+	/*height: 500px;*/
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.container .clients .ctop{
+	/*width: 1150px;*/
+	height: 200px;
+}
+.container .clients .cbottom{
+	/*width: 1150px;*/
+	height: 250px;;
+}
+.container .clients .ctop .ctleft{
+	width: 575px;
+	/*height: 450px;*/
+	float: left;
+	margin-top: 10px;
+}
+.container .clients .ctop .ctright{
+	width: 400px;
+	/*height: 450px;*/
+	float: left;
+	margin-top: 10px;
+}
+.container .clients .ctop .ctleft h1{
+	font-size: 40px;
+	margin-left: 260px;
+	font-family: "Montserrat bold";
+}
+.container .clients .ctop .ctleft p{
+	font-size: 18px;
+	margin-top: 5px;
+	margin-left: 380px;
+	color: #888888;
+}
+.container .clients .ctop .ctright p{
+	font-size: 18px;
+	margin-top: 10px;
+	color: #888888;
+}
+.container .clients .row .cbottom .ras1{
+	width: 266px;
+	height: 140px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 5px;
+}
+.container .clients .row .cbottom .ras2{
+	width: 266px;
+	height: 140px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+.container .clients .row .cbottom .ras3{
+	width: 266px;
+	height: 140px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+.container .clients .row .cbottom .ras4{
+	width: 266px;
+	height: 140px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+.container .contacts{
+	height: 660px;
+	background-color: black;
+	border: 1px solid black;
+}
+.container .contacts .text{
+	/*height: 20px;*/
+	margin-top: 50px;
+}
+.container .contacts .text h1{
+	font-size: 60px;
+	color: white;
+	text-align: center;
+}
+.container .contacts .left{
+	width: 500px;
+	height: 450px;
+	margin-top: 50px;
+	float: left;
+	margin-left: 125px;
+}
+.container .contacts .right{
+	width: 500px;
+	height: 450px;
+	margin-top: 50px;
+	margin-left: 50px;
+	float: left;
+}
+.container .contacts .left .address{
+	width: 499px;
+	height: 65px;
+}
+.container .contacts .left .address i{
+	margin-top: 22px;
+	font-size: 18px;
+	color: white;
+	float: left;
+}
+.container .contacts .left .address p{
+	float: left;
+	color: white;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-size: 18px;
+}
+.container .contacts .left .number{
+	width: 499px;
+	height: 65px;
+}
+.container .contacts .left .number i{
+	margin-top: 23px;
+	font-size: 15px;
+	float: left;
+	color: white;
+}
+.container .contacts .left .number p{
+	float: left;
+	color: white;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-size: 18px;
+}
+.container .contacts .left .mail i{
+	margin-top: 23px;
+	font-size: 15px;
+	float: left;
+	color: white;
+}
+.container .contacts .left .mail p{
+	float: left;
+	color: white;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-size: 18px;
+}
+.container .contacts .left .mail{
+	width: 499px;
+	height: 65px;
+}
+.container .contacts .left .icons .facebook{
+	margin-top: 10px;
+	font-size: 40px;
+	color: white;
+	float: left;
+}
+.container .contacts .left .icons .twitter{
+	margin-top: 10px;
+	margin-left: 15px;
+	font-size: 40px;
+	color: white;
+	float: left;
+}
+.container .contacts .left .icons .googleplus{
+	margin-top: 10px;
+	margin-left: 15px;
+	font-size: 40px;
+	color: white;
+	float: left;
+}
+.container .contacts .left .icons .pinterest{
+	margin-top: 10px;
+	margin-left: 15px;
+	font-size: 40px;
+	color: white;
+	float: left;
+}
+.container .contacts .left .icons .instagram{
+	margin-top: 10px;
+	margin-left: 15px;
+	font-size: 40px;
+	color: white;
+	float: left;
+}
+.container .contacts .left .icons a{
+	color: white;
+}
+.container .contacts .right .name input{
+	width: 496px;
+	height: 45px;
+	color: white;
+	background-color: black;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	transition: all 0.5s;
+}
+.container .contacts .right .name input:focus{
+	border-bottom: 2px solid gray;
+}
+
+.container .contacts .right .email input{
+	width: 496px;
+	height: 50px;
+	color: white;
+	background-color: black;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	transition: all 0.5s;
+}
+.container .contacts .right .email input:focus{
+	border-bottom: 2px solid gray;
+}
+.container .contacts .right .message input{
+	width: 496px;
+	height: 60px;
+	color: white;
+	background-color: black;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	transition: all 0.5s;
+}
+.container .contacts .right .message input:focus{
+	border-bottom: 2px solid gray;
+}
+.container .contacts .right .pusto{
+	width: 496px;
+	height: 80px;
+	background-color: black;
+	border-bottom: 1px solid gray;
+}
+.container .contacts .right .submit button{
+	font-family: "Montserrat bold";
+	margin-top: 40px;
+	width: 170px;
+	height: 50px;
+	background-color: white;
+	color: black;
+	border-radius: 40px;
+}
+.container .intro h1{
+	margin-top: 30px;
+	font-family: "Montserrat bold";
+	text-align: center;
+	font-size: 18px;
+}
+.container .intro p{
+	font-size: 14px;
+	color: #656565;
+	text-align: center;
+}
